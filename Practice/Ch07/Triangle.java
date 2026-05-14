@@ -3,7 +3,6 @@ package com.test;
 public class Triangle {
 	double base;
 	double height;
-	double area;
 	
 	public Triangle(double a, double b) {
 		base = a;
